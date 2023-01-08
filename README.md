@@ -8,17 +8,17 @@
 
 ## Source code
 
-[1. Java Basics](https://github.com/thaonguyen-hoang/java_basics)
+[1. Java Basics]()
   - Review java basics
 
-[2. OOP](https://github.com/thaonguyen-hoang/java_oop)
+[2. OOP]()
   - Introduction to OOP
   - Inheritance
   - Polymorphism
   - Abstraction and ADT
   - Collections
 
-[3. Design Patterns](https://github.com/thaonguyen-hoang/design_patterns)
+[3. Design Patterns]()
   - Creational Patterns
   - Structural Patterns
   - Behavioral Patterns
