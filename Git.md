@@ -13,8 +13,8 @@
 -	Là một Version Control System
 -	Ra đời năm 2005
 -	Một số khái niệm cơ bản
-    - **Repository (repo)**: Kho lưu trũ của Git chứa tất cả các tệp, thông tin cần thiết cùng lịch sử sửa đổi của dự án
-    - **Branch**: Nhánh đại diện cho các phiên bản cụ thể của một kho dữ liệu, là một bản sao kho dữ liệu tại thời điểm phân nhánh, cho phép thử nghiệm và thực hiện thay đổi trên repo mà không ảnh hưởng đến project gốc
+    - **Repository (repo)**: Kho lưu trữ của Git chứa tất cả các tệp, thông tin cần thiết cùng lịch sử sửa đổi của dự án
+    - **Branch**: Nhánh đại diện cho một phiên bản cụ thể của một repo, là một bản sao của repo tại thời điểm phân nhánh, cho phép thử nghiệm và thực hiện thay đổi trên repo mà không ảnh hưởng đến project gốc
     - **Snapshot**: là ảnh chụp toàn bộ nội dung tất cả các file tại một thời điểm
     - **Commit**: là git đã snapshot và record lại thay đổi trong repo
 
