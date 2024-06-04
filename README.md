@@ -4,7 +4,6 @@
   - Subject: Các thành phần phần mềm
   - Lecturer: Th.S Quản Thái Hà
   - Student: Hoàng Thảo Nguyên
-  - Student ID: 21002164
 
 ## Source code
 
