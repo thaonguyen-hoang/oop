@@ -1,12 +1,10 @@
-# OOP
+## OOP
 
-## Introduction
-  - Subject: Các thành phần phần mềm
-  - Lecturer: Th.S Quản Thái Hà
-  - Student: Hoàng Thảo Nguyên
+### Introduction
+This repo includes all of my **individual practice excercises** in **Course 3372 - Object Oriented Programming (OOP)**, diving into 3 components - Java Basics, OOP and Design Patterns. 
 
-## Source code
 
+### Source code
 [1. Java Basics](https://github.com/thaonguyen-hoang/oop/tree/main/src/javabasics)
   - Review java basics
 
@@ -21,6 +19,7 @@
   - Creational Patterns
   - Structural Patterns
   - Behavioral Patterns
-  
-## GitHub
+
+
+### Git/GitHub in a nutshell
   - [Report](https://github.com/thaonguyen-hoang/oop/blob/main/Git.md)
